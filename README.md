@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm Jolke de Jonge
-> Attending hbo bachelor [Breda Univercity Applied Science](https://www.buas.nl/en)
+> Attending hbo bachelor [Breda University Applied Science](https://www.buas.nl/en)
 
 
 <img src="https://komarev.com/ghpvc/?username=JolkeDeJongeGit" alt="jolke de jonge" />
