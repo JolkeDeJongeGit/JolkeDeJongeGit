@@ -34,5 +34,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/jolke-de-jonge-72252318a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JolkeDeJongeGit-blue?style=flat&logo=linkedin"></a>
-
+ 
+<a href="https://www.jolke.dejongester.nl" target="_blank"><img alt="Portfolio Websitr" src="https://static.thenounproject.com/png/2595789-200.png"></a>
+</p>
 ⭐️ From [@JolkeDeJongeGit](https://github.com/JolkeDeJongeGit)
