@@ -35,6 +35,6 @@
 <p>
 <a href="https://www.linkedin.com/in/jolke-de-jonge-72252318a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@JolkeDeJongeGit-blue?style=flat&logo=linkedin"></a>
  
-<a href="https://www.jolke.dejongester.nl" target="_blank" >Portfolio 🌐</a>
+<a href="https://jolke.dejongester.nl" target="_blank" >Portfolio 🌐</a>
 </p>
 ⭐️ From [@JolkeDeJongeGit](https://github.com/JolkeDeJongeGit)
