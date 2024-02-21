@@ -7,20 +7,22 @@
 > Attending HBO Bachelor [Breda University Applied Science](https://www.buas.nl/en)
 
 
-<img src="https://komarev.com/ghpvc/?username=JolkeDeJongeGit" alt="jolke de jonge" />
+<img src="https://komarev.com/ghpvc/?username=JolkeDeJongeGit" alt="Jolke de jonge" />
 
 <div>
  <p>
-  
+   My name is Jolke and my main occupation is Game Development/Programming.
+     - I'm mainly specializing in Graphics programming
+     - Studying Game Technologies at Breda University of Applied Science.
  </p>
 </div>
 
 ### Programming Languages 🌐
 
-[<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="24">](https://www.cplusplus.com/)[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/)   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)     [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/)   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)  
+[<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="24">](https://www.cplusplus.com/)[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)        [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/)       [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/)      [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)  
  
 ### Tools 🛠️
-[<img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" width="24">](https://www.unrealengine.com/en-US/)[<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" alt="vs" width="24">](https://visualstudio.microsoft.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)    [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/)  
+[<img src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal Engine" width="24">](https://www.unrealengine.com/en-US/)[<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" alt="vs" width="24">](https://visualstudio.microsoft.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/)    [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)       [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/)  
 
 ### Github Stats
 
