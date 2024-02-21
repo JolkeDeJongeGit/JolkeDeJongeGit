@@ -12,8 +12,10 @@
 <div>
  <p>
    My name is Jolke and my main occupation is Game Development/Programming.
-     - I'm mainly specializing in Graphics programming
-     - Studying Game Technologies at Breda University of Applied Science.
+  <ul>
+   <li>I'm mainly specializing in Graphics programming</li>
+   <li>Studying Game Technologies at Breda University of Applied Science.</li>
+  </ul>
  </p>
 </div>
 
