@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm Jolke de Jonge
+### Hi there 👋 My name is Jolke de Jonge
 > Attending HBO Bachelor [Breda University Applied Science](https://www.buas.nl/en)
 
 
@@ -12,6 +12,8 @@
 <div>
  <p>
    My name is Jolke and my main occupation is Game Development/Programming.
+
+  Here you will find some of the work I did during my free time or my study.
   <ul>
    <li>I'm mainly specializing in Graphics programming</li>
    <li>Studying Game Technologies at Breda University of Applied Science.</li>
